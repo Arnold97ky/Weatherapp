@@ -1,6 +1,7 @@
 #WeatherApp
 #A team project with CHRISTIAN BEYNIS 
-Work from a basuc weather app and try to implement new features like:
+
+Work from a basic weather app and try to implement new features like:
 -Geolocalization
 -Sounds for effect 
 -Paly with Icon and implement a gif
